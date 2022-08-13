@@ -1,0 +1,9 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: white;
+    background: rgb(44, 44, 44);
+}
+.chuj {
+    color: white;
+    background: linear-gradient(0deg, rgb(44, 44, 44), rgb(65, 65, 65));
+}
