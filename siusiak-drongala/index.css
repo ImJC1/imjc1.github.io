@@ -1,0 +1,32 @@
+body {
+    background: rgb(255,228,196);
+    background: linear-gradient(90deg, rgba(255,228,196,1) 0%, rgba(204,182,157,1) 2.5%, rgba(204,182,157,1) 97.5%, rgba(255,228,196,1) 100%);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.adv {
+    display: inline-block;
+}
+
+#howlongagogo_p {
+    height: 0px;
+}
+
+.main {
+    background: rgb(204,182,157);
+    background: linear-gradient(90deg, rgba(204,182,157,1) 0%, rgba(255,228,196,1) 2.5%, rgba(255,228,196,1) 97.5%, rgba(204,182,157,1) 100%);
+
+    height: 99vh;
+    display: inline-block;
+    width: calc(100% - calc(450px * 2));
+
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    margin: 0px;
+    margin-left: 450px;
+    position: absolute;
+
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
