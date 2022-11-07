@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
+
+.colorpickers {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.colorpickers input, button {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 600;
+    width: 4rem;
+    height: 3rem;
+    margin-left: 0.05rem;
+    margin-right: 0.05rem;
+    color: white;
+    background-color: rgb(35, 35, 40);
+    border:none;
+}
