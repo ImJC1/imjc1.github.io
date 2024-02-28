@@ -1,1 +1,8 @@
-
+body {
+    background-color: #3a4c57;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: 12px;
+    font-family: 'Montserrat', 'Bahnschrift', 'Verdana', 'Arial', sans-serif !important;
+}
